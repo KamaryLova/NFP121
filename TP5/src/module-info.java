@@ -5,6 +5,5 @@
  * @author cocaos
  *
  */
-module TP2 {
-	requires junit;
+module TP5 {
 }
